@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/valentine-meme/static/css/main.37a7d0c5.css",
+    "main.js": "/valentine-meme/static/js/main.dee50bcf.js",
+    "static/js/592.eaadf68f.chunk.js": "/valentine-meme/static/js/592.eaadf68f.chunk.js",
+    "static/media/meme.jpeg": "/valentine-meme/static/media/meme.4abdacd08f13eb0cdad8.jpeg",
+    "index.html": "/valentine-meme/index.html",
+    "main.37a7d0c5.css.map": "/valentine-meme/static/css/main.37a7d0c5.css.map",
+    "main.dee50bcf.js.map": "/valentine-meme/static/js/main.dee50bcf.js.map",
+    "592.eaadf68f.chunk.js.map": "/valentine-meme/static/js/592.eaadf68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a7d0c5.css",
+    "static/js/main.dee50bcf.js"
+  ]
+}
